@@ -1,0 +1,6 @@
+A sample Redline collection created in a VM that was running Windows 8.1 Pro.
+
+Redline version: 2.0.100.0
+Agent version: 31.28.1.6933
+
+The script that was used by the agent to collect the data is included in the MANS file. Please note that I removed the output of the Persistence audit as it was very large in size.
