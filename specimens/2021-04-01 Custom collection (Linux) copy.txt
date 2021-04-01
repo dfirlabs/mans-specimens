@@ -1,0 +1,7 @@
+A sample collection was acquired from a VM that was running Ubuntu 18.04.3 LTS, using FireEye Endpoint Security (HX).
+
+HX Controller version: 5.0.3.927683
+Agent version: 32.30.12
+
+The script that was used by the agent to collect the data is included in the MANS file. 
+
