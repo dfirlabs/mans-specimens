@@ -1,0 +1,7 @@
+A sample Triage collection was acquired from a VM that was running Windows 10 Pro, using FireEye Endpoint Security (HX).
+
+HX Controller version: 5.0.3.927683
+Agent version: 32.30.13
+
+The script that was used by the agent to collect the data is included in the MANS file. 
+A Triage is a type of collection, pre-defined within the FireEye Endpoint Security controller.

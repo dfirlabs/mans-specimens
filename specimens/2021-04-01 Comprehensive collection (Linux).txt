@@ -1,0 +1,7 @@
+A sample "Comprehensive Investigative Details" collection was acquired from a VM that was running Ubuntu 18.04.3 LTS, using FireEye Endpoint Security (HX).
+
+HX Controller version: 5.0.3.927683
+Agent version: 31.28.17
+
+The script that was used by the agent to collect the data is included in the MANS file. 
+A "Comprehensive Investigative Details" is a type of collection, pre-defined within the FireEye Endpoint Security controller.
